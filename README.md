@@ -1,4 +1,5 @@
 <include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/hballow2008/microservice_api.svg?style=svg)](https://https://app.circleci.com/pipelines/github/hballow2008/microservice_api)
 
 ## Project Overview
 
